@@ -1,0 +1,6 @@
+app.log
+composer.json
+composer.lock
+composer_install.php
+index.php
+vendor/
